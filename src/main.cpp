@@ -4,6 +4,7 @@
  * @author Ayush Kumar Sikarwar (Ayush1Sikarwar)
  * @date 19-02-2026
  *
+ *
  * @details
  * Reads analog force data from FSR sensor and
  * displays structured output via Serial Monitor
