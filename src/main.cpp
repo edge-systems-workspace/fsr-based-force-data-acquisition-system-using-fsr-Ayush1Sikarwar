@@ -22,5 +22,5 @@ void loop() {
     // write your code here
     value = analogRead(A0);
     Serial.println(value);
-    delay(500);
+    delay(400);
 }
