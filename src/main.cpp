@@ -18,6 +18,7 @@ void setup() {
     pinMode(A0, INPUT);
 }
 
+
 void loop() {
     // write your code here
     value = analogRead(A0);
