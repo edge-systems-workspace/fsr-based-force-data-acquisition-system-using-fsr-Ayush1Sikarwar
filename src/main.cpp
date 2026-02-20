@@ -1,7 +1,7 @@
 /**
 * @file main.cpp
  * @brief Embedded Force Measurement System using FSR
- * @author Ayush Kumar Sikarwar
+ * @author Ayush Kumar Sikarwar (Ayush1Sikarwar)
  * @date 19-02-2026
  *
  * @details
